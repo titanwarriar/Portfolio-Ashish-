@@ -1,2 +1,1 @@
-# Portfolio-Ashish-
-Create A Portfolio Using Front-end.
+![Preview Img](files/preview.png)
